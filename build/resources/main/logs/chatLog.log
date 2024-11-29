@@ -1,0 +1,28 @@
+23:58:09.607 [main] INFO  org.example.Main - Сервер запущен на порту 5081
+23:58:40.868 [main] INFO  org.example.Main - Сервер запущен на порту 5081
+23:59:00.297 [main] INFO  org.example.Main - Сервер запущен на порту 5081
+23:59:27.766 [Thread-0] INFO  org.example.Main - harsat присоединился к чату.
+23:59:27.768 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от harsat: harsat Join to chat.
+23:59:33.773 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от harsat: harsat: hello world
+23:59:40.839 [Thread-0] INFO  org.example.Main - Отправлено личное сообщение от harsat к harsat: пуцпцукр
+00:00:02.970 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от harsat: harsat: ewrgergwer
+00:00:09.032 [Thread-0] INFO  org.example.Main - Отправлено личное сообщение от harsat к harsat: fgsergwrgerwrg
+00:00:13.121 [Thread-0] ERROR org.example.Main - Ошибка при обработке клиента: Connection reset
+00:00:13.124 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от harsat: harsat leave chat.
+00:00:13.125 [Thread-0] INFO  org.example.Main - harsat покинул чат.
+00:02:33.111 [main] INFO  org.example.Main - Сервер запущен на порту 5082
+00:03:20.835 [main] INFO  org.example.Main - Сервер запущен на порту 5082
+00:03:47.232 [Thread-0] INFO  org.example.Main - wefoqierg присоединился к чату.
+00:03:47.235 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от wefoqierg: wefoqierg Join to chat.
+00:03:51.257 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от wefoqierg: wefoqierg: oqwfefiwifg
+00:03:55.766 [Thread-0] ERROR org.example.Main - Ошибка при обработке клиента: Connection reset
+00:03:55.769 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от wefoqierg: wefoqierg leave chat.
+00:03:55.770 [Thread-0] INFO  org.example.Main - wefoqierg покинул чат.
+00:22:17.784 [main] INFO  org.example.Main - Сервер запущен на порту 5082
+00:22:46.177 [Thread-0] INFO  org.example.Main - test присоединился к чату.
+00:22:46.184 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от test: test Join to chat.
+00:22:55.252 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от test: test: its a live
+00:23:01.300 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от test: test: its work!
+00:23:05.459 [Thread-0] ERROR org.example.Main - Ошибка при обработке клиента: Connection reset
+00:23:05.461 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от test: test leave chat.
+00:23:05.462 [Thread-0] INFO  org.example.Main - test покинул чат.

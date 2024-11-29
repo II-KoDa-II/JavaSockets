@@ -1,0 +1,37 @@
+19:07:19.943 [main] INFO  org.example.Main - Сервер запущен на порту 6080
+19:08:07.316 [Thread-0] INFO  org.example.Main - harsat присоединился к чату.
+19:08:07.319 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от harsat: harsat Join to chat.
+19:08:13.394 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от harsat: harsat: hello world
+19:08:20.678 [Thread-0] ERROR org.example.Main - Ошибка при обработке клиента: Connection reset
+19:08:20.680 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от harsat: harsat leave chat.
+19:08:20.681 [Thread-0] INFO  org.example.Main - harsat покинул чат.
+19:09:25.563 [main] INFO  org.example.Main - Сервер запущен на порту 6080
+19:09:49.585 [Thread-0] INFO  org.example.Main - harsat присоединился к чату.
+19:09:49.588 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от harsat: harsat Join to chat.
+19:09:53.633 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от harsat: harsat: wergjqhgwe
+19:09:56.778 [Thread-0] ERROR org.example.Main - Ошибка при обработке клиента: Connection reset
+19:09:56.780 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от harsat: harsat leave chat.
+19:09:56.780 [Thread-0] INFO  org.example.Main - harsat покинул чат.
+19:12:50.918 [main] INFO  org.example.Main - Сервер запущен на порту 6080
+19:13:29.973 [main] INFO  org.example.Main - Сервер запущен на порту 6080
+19:14:37.990 [Thread-0] INFO  org.example.Main - fwefw присоединился к чату.
+19:14:37.993 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от fwefw: fwefw Join to chat.
+19:14:42.038 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от fwefw: fwefw: gergwergmo
+19:14:55.191 [Thread-0] INFO  org.example.Main - Отправлено личное сообщение от fwefw к fwefw: fq2o3r9213fjwf
+19:15:00.236 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от fwefw: fwefw: fqwefq
+19:15:04.268 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от fwefw: fwefw: hjg9p3jg9ihj34qpgfnq34ngq3
+19:15:08.316 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от fwefw: fwefw: erwnjgnerwngow3jrgfopwr
+19:15:13.344 [Thread-0] ERROR org.example.Main - Ошибка при обработке клиента: Connection reset
+19:15:13.346 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от fwefw: fwefw leave chat.
+19:15:13.347 [Thread-0] INFO  org.example.Main - fwefw покинул чат.
+19:20:30.918 [Thread-0] ERROR org.example.Main - Ошибка при обработке клиента: Connection reset
+19:32:33.195 [main] INFO  org.example.Main - Сервер запущен на порту 5081
+19:33:16.436 [main] INFO  org.example.Main - Сервер запущен на порту 5081
+19:33:40.418 [Thread-0] INFO  org.example.Main - fqjweiofgwqg присоединился к чату.
+19:33:40.420 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от fqjweiofgwqg: fqjweiofgwqg Join to chat.
+19:33:44.454 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от fqjweiofgwqg: fqjweiofgwqg: fqwekgjweof
+19:33:47.491 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от fqjweiofgwqg: fqjweiofgwqg: gmeogjerngmwe
+19:33:51.534 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от fqjweiofgwqg: fqjweiofgwqg: [qk23jrfiqjfmwe
+19:33:53.051 [Thread-0] ERROR org.example.Main - Ошибка при обработке клиента: Connection reset
+19:33:53.052 [Thread-0] INFO  org.example.Main - Широковещательное сообщение от fqjweiofgwqg: fqjweiofgwqg leave chat.
+19:33:53.053 [Thread-0] INFO  org.example.Main - fqjweiofgwqg покинул чат.
